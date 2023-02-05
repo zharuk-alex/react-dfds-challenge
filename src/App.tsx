@@ -30,7 +30,7 @@ function App() {
       portOfDischarge: 'Klaipeda',
       departureTime: "2023-02-03T10:10:00.000Z",
       arrivalTime: "2023-02-03T16:20:00.000Z",
-      currentTime: "2023-02-03T13:50:21.000Z"
+      currentTime: "2023-02-03T12:00:00.000Z"
     },
     {
       portOfLoading: 'Karlshamn',
