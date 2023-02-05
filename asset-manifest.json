@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-dfds-challenge/static/css/main.365df26f.css",
+    "main.js": "/react-dfds-challenge/static/js/main.fec703c1.js",
+    "static/js/787.741501db.chunk.js": "/react-dfds-challenge/static/js/787.741501db.chunk.js",
+    "index.html": "/react-dfds-challenge/index.html",
+    "main.365df26f.css.map": "/react-dfds-challenge/static/css/main.365df26f.css.map",
+    "main.fec703c1.js.map": "/react-dfds-challenge/static/js/main.fec703c1.js.map",
+    "787.741501db.chunk.js.map": "/react-dfds-challenge/static/js/787.741501db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.365df26f.css",
+    "static/js/main.fec703c1.js"
+  ]
+}
